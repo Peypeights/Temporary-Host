@@ -209,4 +209,12 @@ article {
     nav h1 {
         font-size: 14px;
     }
+
+    .temp {
+        font-size: 48px;
+    }
+
+    .wind {
+        font-size: 32px;
+    }
 }
